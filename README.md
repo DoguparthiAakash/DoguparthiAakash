@@ -19,16 +19,16 @@
                     ║  🔴  🟡  🟢        Terminal — zsh                  ║
                     ╠══════════════════════════════════════════════════════╣
                     ║                                                      ║
-                    ║  Last login: Sat Mar 7 2026 on ttys001              ║
+                    ║  Last login: Sat Mar 7 2026 on ttys001               ║
                     ║                                                      ║
-                    ║  aakash@mithl-os ~ % whoami                         ║
+                    ║  aakash@mithl-os ~ % whoami                          ║
                     ║  ➜  Doguparthi Aakash                               ║
                     ║                                                      ║
-                    ║  aakash@mithl-os ~ % cat mission.txt                ║
+                    ║  aakash@mithl-os ~ % cat mission.txt                 ║
                     ║  ➜  "Architecting the future,                       ║
-                    ║      one kernel at a time."                         ║
+                    ║      one kernel at a time."                          ║
                     ║                                                      ║
-                    ║  aakash@mithl-os ~ % █                              ║
+                    ║  aakash@mithl-os ~ % █                               ║
                     ║                                                      ║
                     ╚══════════════════════════════════════════════════════╝
 ```
@@ -66,25 +66,25 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  🔍  Search or ask anything...                                           │
+│  🔍  Search or ask anything...                                          │
 │─────────────────────────────────────────────────────────────────────────│
-│                                                                          │
+│                                                                         │
 │  TOP HIT ──────────────────────────────────────────────────────────── ▸ │
 │  👨‍💻  Aakash Doguparthi             AIML Engineering Student             │
-│                                                                          │
-│  ABOUT ─────────────────────────────────────────────────────────────── ▸ │
-│  📍  Location        India                                               │
+│                                                                         │
+│  ABOUT ─────────────────────────────────────────────────────────────── ▸│
+│  📍  Location        India                                              │
 │  🎓  Degree          AIML Engineering (in progress)                     │
 │  🧠  Speciality      AI · IoT · Embedded Systems · OS Dev               │
 │  🚀  Current Build   Mithl-OS — Glass Prism UI                          │
 │  🌱  Learning        Deep Learning · Computer Vision · Edge AI          │
-│  🎯  Mission         Distraction-free high-performance ecosystem         │
-│                                                                          │
+│  🎯  Mission         Distraction-free high-performance ecosystem        │
+│                                                                         │
 │  QUICK LINKS ──────────────────────────────────────────────────────── ▸ │
 │  🔗  github.com/DoguparthiAakash                                        │
 │  🔗  linkedin.com/in/aakash-doguparthi                                  │
 │  🔗  orcid.org/0009-0008-6440-3067                                      │
-│                                                                          │
+│                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -105,9 +105,9 @@
 ║  🔴 🟡 🟢   Activity Monitor                         CPU  RAM  NET  ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   PROCESS                       CPU%    RAM       STATUS            ║
-║  ────────────────────────────────────────────────────────────────   ║
-║  🧠  mithl-os.kernel            99.9%   ∞  GB     ● Running         ║
+║   PROCESS                       CPU%    RAM       STATUS             ║
+║  ────────────────────────────────────────────────────────────────    ║
+║  🧠  mithl-os.kernel            99.9%   ∞  GB     ● Running          ║
 ║  🤖  deep-learning.model        87.4%   16 GB     ● Training        ║
 ║  👁️  computer-vision.py         72.1%   8  GB     ● Running         ║
 ║  📡  iot-edge.daemon            54.3%   4  GB     ● Active          ║
@@ -115,7 +115,7 @@
 ║  📚  knowledge-base.index       31.0%   ∞  GB     ● Always On       ║
 ║  💡  creativity.process          ∞  %   ∞  GB     ● Never Stops     ║
 ║                                                                      ║
-║  Repos: 17    Stars Earned: 16    Achievements: 🦈    PRs: ✅        ║
+║  Repos: 17    Stars Earned: 16    Achievements: 🦈    PRs: ✅       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -171,26 +171,26 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🔴 🟡 🟢   Finder                              ⬅  ➡  ⬆  🔍 Search     ║
+║  🔴 🟡 🟢   Finder                              ⬅  ➡  ⬆  🔍 Search       ║
 ╠═══════════════════╦══════════════════════════════════════════════════════════╣
 ║                   ║                                                          ║
 ║  📁 iCloud        ║    📦  Mithl-OS                                         ║
 ║  📁 Applications  ║    ════════════════════════════════════════════════════  ║
 ║  📁 Desktop       ║                                                          ║
-║  📁 Documents     ║    "Fast. Beautiful. Yours."                            ║
+║  📁 Documents     ║    "Fast. Beautiful. Yours."                             ║
 ║  ─────────────    ║                                                          ║
-║  📁 Repositories  ║    A from-scratch OS built for creators.                ║
-║  ▸ 📁 Mithl-OS ◂  ║    Featuring the Glass Prism UI design language:        ║
+║  📁 Repositories  ║    A from-scratch OS built for creators.                 ║
+║  ▸ 📁 Mithl-OS ◂  ║    Featuring the Glass Prism UI design language:         ║
 ║    📁 Text-Beans  ║                                                          ║
 ║    📁 Smart-Home  ║    ✦  Direct-to-metal rendering — zero input lag        ║
-║    📁 +14 more    ║    ✦  Premium glassmorphic visual language               ║
+║    📁 +14 more    ║    ✦  Premium glassmorphic visual language              ║
 ║                   ║    ✦  Micro-kernel process isolation                    ║
 ║                   ║    ✦  Focus-first distraction-free environment          ║
 ║                   ║    ✦  Custom bootloader & driver stack                  ║
-║                   ║    ✦  Hand-crafted in C, C++ & Assembly                ║
+║                   ║    ✦  Hand-crafted in C, C++ & Assembly                 ║
 ║                   ║                                                          ║
 ║                   ║    Status:   🟢 Actively Developed                      ║
-║                   ║    Language: C · C++ · ASM · Custom Kernel              ║
+║                   ║    Language: C · C++ · ASM · Custom Kernel               ║
 ╠═══════════════════╩══════════════════════════════════════════════════════════╣
 ║   17 items,  ∞ TB available                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -212,10 +212,10 @@
 
 ```
   ╭──────────────────────────╮   ╭──────────────────────────╮   ╭──────────────────────────╮
-  │  🔴 🟡 🟢               │   │  🔴 🟡 🟢               │   │  🔴 🟡 🟢               │
-  │  ── Mithl-OS ──────────  │   │  ── Smart Home ─────────  │   │  ── Text-Beans ─────────  │
+  │  🔴 🟡 🟢              │   │  🔴 🟡 🟢               │   │  🔴 🟡 🟢               │
+  │  ── Mithl-OS ────────── │   │  ── Smart Home ─────────  │   │  ── Text-Beans ─────────  │
   │                          │   │                          │   │                          │
-  │  🖥️  Custom OS           │   │  🏠  IoT Dashboard        │   │  📝  File Suite          │
+  │  🖥️  Custom OS          │   │  🏠  IoT Dashboard       │   │  📝  File Suite          │
   │                          │   │                          │   │                          │
   │  Built from scratch with │   │  Smart energy monitor &  │   │  All-in-one tool for     │
   │  Glass Prism UI. Direct  │   │  control for modern IoT  │   │  all kinds of file       │
@@ -268,17 +268,17 @@
   │                  Doguparthi Aakash                         │
   ├────────────────────────────────────────────────────────────┤
   │                                                            │
-  │  🦈  PULL SHARK              ██████████  UNLOCKED ✅       │
+  │  🦈  PULL SHARK              ██████████  UNLOCKED ✅      │
   │      Merged pull requests with expert precision            │
   │                                                            │
   │  🔨  BUILDER                 ████████░░  Level 8 / 10      │
-  │      17 repositories and growing — never stops            │
+  │      17 repositories and growing — never stops             │
   │                                                            │
   │  🧠  AI PIONEER              ████████░░  In Progress       │
-  │      Pushing boundaries of edge AI & deep learning        │
+  │      Pushing boundaries of edge AI & deep learning         │
   │                                                            │
   │  🖥️  OS ARCHITECT            ████░░░░░░  Boss Fight        │
-  │      Building a full OS from scratch. Legendary.          │
+  │      Building a full OS from scratch. Legendary.           │
   │                                                            │
   └────────────────────────────────────────────────────────────┘
 ```
@@ -439,12 +439,12 @@
 ║                                                          ║
 ║     Doguparthi Aakash                                   ║
 ║     AIML Engineering Student                            ║
-║                                                          ║
+║                                                         ║
 ║  Build:         Mithl-OS Alpha (In Development)         ║
 ║  Kernel:        Custom (built from scratch)             ║
 ║  CPU:           Always at 99.9% creativity              ║
 ║  Uptime:        24 / 7 since day one                    ║
-║  Repos:         17              ⭐  Stars: 16            ║
+║  Repos:         17              ⭐  Stars: 16           ║
 ║  Followers:     2               Following: 2            ║
 ║  Achievement:   🦈 Pull Shark                           ║
 ║                                                          ║
