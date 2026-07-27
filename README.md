@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:5e5ce6&height=200&section=header&text=Magnificence%20is%20always%20a%20Treasure&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="./assects/images/1.png" alt="Doguparthi Aakash"/>
 
 # Aakash Doguparthi
 
