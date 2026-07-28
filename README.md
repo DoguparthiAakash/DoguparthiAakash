@@ -7,12 +7,8 @@
 ### Artificial Intelligence & Machine Learning
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch,opencv,jupyter,sqlite,mysql,git,github,vscode&theme=dark&perline=6" />
 </a>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
 
 ---
 
@@ -53,48 +49,60 @@ Embedded & Edge AI ──────┘
 ### Artificial Intelligence & Machine Learning
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,pytorch,tensorflow,opencv,jupyter,vscode&theme=dark&perline=8" />
 </a>
+
 <br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
 ---
 
 ### Systems Programming & Core Development
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,git,github,vscode,vim,docker,qemu&theme=dark&perline=8" />
 </a>
+
 <br/>
-<img src="https://img.shields.io/badge/GNU-333333?style=flat" alt="GNU Tools" />
+
+<img src="https://img.shields.io/badge/GNU_Tools-333333?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/NASM-0095D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRUB-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Limine-7B3FE4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UEFI-00599C?style=for-the-badge"/>
 
 ---
 
 ### Embedded Systems & Edge AI
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-</a>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,vscode,linux,bash,git,github&theme=dark" />
+  </a>
 <br/>
-<img src="https://img.shields.io/badge/IoT-0ea5e9?style=flat" alt="IoT" />
-<img src="https://img.shields.io/badge/Sensors-475569?style=flat" alt="Sensors" />
+
 
 ---
 
 ### Data & Visualization
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Jupyter-f37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+<a href="https://skillicons.dev">
+  <img src=https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,ts,react,nodejs,express,mysql,mongodb,tensorflow,pytorch,opencv,sklearn,jupyter,vscode,git,github,docker,aws,linux,ubuntu&theme=dark&perline=9 />
+</a>
 
 ---
 
 ### Development Tools & Workflow
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,pycharm,webstorm,androidstudio,docker,kubernetes,postman,aws,azure,gcp,linux,ubuntu,bash,powershell,cmake,maven,gradle,npm,yarn,pnpm,vercel,netlify,cloudflare&theme=dark" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/WSL-4d4d4d?style=flat" alt="WSL" />
@@ -104,7 +112,7 @@ Embedded & Edge AI ──────┘
 ### Web & Interface (Supporting Skills)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+  <img src=https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,vite,webpack,nodejs,express,nestjs,mongodb,mysql,postgres,firebase,supabase,graphql,prisma,redis,docker,nginx,git,github,vercel,netlify,cloudflare,vscode&theme=dark />
 </a>
 
 ---
