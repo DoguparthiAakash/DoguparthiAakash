@@ -17,14 +17,14 @@
 ### Engineering student in **Artificial Intelligence & Machine Learning**
 ### Focus areas:
 
-  * Deep Learning and Computer Vision
-  * Edge AI and Embedded Systems
-  * Operating Systems and System Design
+  *-> Deep Learning and Computer Vision
+  *-> Edge AI and Embedded Systems
+  *-> Operating Systems and System Design
 ### Approach:
 
-  * Performance-oriented engineering
-  * System-level thinking
-  * Practical implementation
+  *-> Performance-oriented engineering
+  *-> System-level thinking
+  *-> Practical implementation
 
 ---
 
