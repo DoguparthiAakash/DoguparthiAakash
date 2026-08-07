@@ -2,9 +2,9 @@
 
 <img src="./assects/images/1.png" alt="Doguparthi Aakash"/>
 
-# Aakash Doguparthi
+# **Aakash Doguparthi**
 
-### Artificial Intelligence & Machine Learning
+## My main tech stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch,opencv,jupyter,sqlite,mysql,git,github,vscode&theme=dark&perline=6" />
@@ -14,13 +14,13 @@
 
 ## Profile
 
-* Engineering student in **Artificial Intelligence & Machine Learning**
-* Focus areas:
+### Engineering student in **Artificial Intelligence & Machine Learning**
+### Focus areas:
 
   * Deep Learning and Computer Vision
   * Edge AI and Embedded Systems
   * Operating Systems and System Design
-* Approach:
+### Approach:
 
   * Performance-oriented engineering
   * System-level thinking
@@ -30,10 +30,10 @@
 
 ## Technical Domain
 
-<div align="center">
+<div align="left">
 
 ```
-AI Systems ───────────────┐
+AI Systems ──────────────┐
                          ├──► Intelligent Architecture
 Systems Programming ─────┤
                          ├──► Efficient Execution
