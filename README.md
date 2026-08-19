@@ -7,7 +7,7 @@
 ## My main tech stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch,opencv,jupyter,sqlite,mysql,git,github,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,c,cpp,linux,docker,git,github,vscode&theme=dark&perline=6" />
 </a>
 
 ---
@@ -15,11 +15,13 @@
 ## Profile
 
 ### Engineering student in **Artificial Intelligence & Machine Learning**
+
 ### Focus areas:
 
 * Deep Learning and Computer Vision
 * Edge AI and Embedded Systems
 * Operating Systems and System Design
+
 ### Approach:
 
 * Performance-oriented engineering
@@ -49,7 +51,7 @@ Embedded & Edge AI ──────┘
 ### Artificial Intelligence & Machine Learning
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,pytorch,tensorflow,opencv,jupyter,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,pytorch,tensorflow,opencv,jupyter&theme=dark&perline=8" />
 </a>
 
 <br/>
@@ -68,7 +70,7 @@ Embedded & Edge AI ──────┘
 ### Systems Programming & Core Development
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,git,github,vscode,vim,docker,qemu&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,vim,docker,qemu&theme=dark&perline=8" />
 </a>
 
 <br/>
@@ -84,17 +86,7 @@ Embedded & Edge AI ──────┘
 ### Embedded Systems & Edge AI
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,vscode,linux,bash,git,github&theme=dark" />
-  </a>
-<br/>
-
-
----
-
-### Data & Visualization
-
-<a href="https://skillicons.dev">
-  <img src=https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,ts,react,nodejs,express,mysql,mongodb,tensorflow,pytorch,opencv,sklearn,jupyter,vscode,git,github,docker,aws,linux,ubuntu&theme=dark&perline=9 />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 </a>
 
 ---
@@ -102,18 +94,10 @@ Embedded & Edge AI ──────┘
 ### Development Tools & Workflow
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,pycharm,webstorm,androidstudio,docker,kubernetes,postman,aws,azure,gcp,linux,ubuntu,bash,powershell,cmake,maven,gradle,npm,yarn,pnpm,vercel,netlify,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman,cmake,npm&theme=dark" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/WSL-4d4d4d?style=flat" alt="WSL" />
-
----
-
-### Web & Interface (Supporting Skills)
-
-<a href="https://skillicons.dev">
-  <img src=https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,vite,webpack,nodejs,express,nestjs,mongodb,mysql,postgres,firebase,supabase,graphql,prisma,redis,docker,nginx,git,github,vercel,netlify,cloudflare,vscode&theme=dark />
-</a>
 
 ---
 
