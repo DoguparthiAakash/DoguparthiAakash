@@ -154,5 +154,5 @@ Purpose in every system.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,50:cc0000,100:660000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,50:cc0000,100:660000&height=120&section=footer" width="100%"/>
 </div>
