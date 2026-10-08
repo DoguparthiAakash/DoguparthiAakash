@@ -110,7 +110,7 @@ Embedded & Edge AI ──────┘
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DoguparthiAakash&theme=radical&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DoguparthiAakash&theme=radical&hide_border=true"/>
 
 </div>
 
