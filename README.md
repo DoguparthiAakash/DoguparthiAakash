@@ -48,22 +48,26 @@ Embedded & Edge AI ──────┘
 
 ## Technology Stack
 
-### Artificial Intelligence & Machine Learning
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,pytorch,tensorflow,opencv,jupyter&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,anaconda,c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,vim,qemu,docker,git,github,vscode,arduino,raspberrypi,aws,postman,npm&theme=dark&perline=9" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" alt="YOLO"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NASM-0095D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRUB-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Limine-7B3FE4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UEFI-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GNU_Tools-333333?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/WSL-4d4d4d?style=for-the-badge"/>
 
 ---
 
@@ -116,14 +120,11 @@ Embedded & Edge AI ──────┘
 
 ---
 
-## Activity
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoguparthiAakash&theme=radical&hide_border=true"/>
-
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
 </div>
-
 ---
 
 ## Current Direction
