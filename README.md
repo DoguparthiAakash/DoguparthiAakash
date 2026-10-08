@@ -14,19 +14,13 @@
 
 ## Profile
 
-### Engineering student in **Artificial Intelligence & Machine Learning**
+**Engineering student in Artificial Intelligence & Machine Learning**
 
-### Focus areas:
-
-* Deep Learning and Computer Vision
-* Edge AI and Embedded Systems
-* Operating Systems and System Design
-
-### Approach:
-
-* Performance-oriented engineering
-* System-level thinking
-* Practical implementation
+| Focus | Approach |
+|---|---|
+| Deep Learning & Computer Vision | Performance-oriented engineering |
+| Edge AI & Embedded Systems | System-level thinking |
+| Operating Systems & System Design | Practical implementation |
 
 ---
 
@@ -48,60 +42,46 @@ Embedded & Edge AI ──────┘
 
 ## Technology Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,anaconda,c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,vim,qemu,docker,git,github,vscode,arduino,raspberrypi,aws,postman,npm&theme=dark&perline=9" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NASM-0095D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GRUB-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Limine-7B3FE4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UEFI-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GNU_Tools-333333?style=for-the-badge&logo=gnu&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSL-4d4d4d?style=for-the-badge"/>
-
----
-
-### Systems Programming & Core Development
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,vim,docker,qemu&theme=dark&perline=8" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/GNU_Tools-333333?style=for-the-badge&logo=gnu&logoColor=white"/>
-<img src="https://img.shields.io/badge/NASM-0095D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GRUB-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Limine-7B3FE4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UEFI-00599C?style=for-the-badge"/>
-
----
-
-### Embedded Systems & Edge AI
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-</a>
-
----
-
-### Development Tools & Workflow
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman,cmake,npm&theme=dark" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/WSL-4d4d4d?style=flat" alt="WSL" />
+<table>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,anaconda&theme=dark" /><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square"/>
+      <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,ubuntu,arch,cmake,gcc,gdb,vim,qemu&theme=dark" /><br/>
+      <img src="https://img.shields.io/badge/GNU_Tools-333333?style=flat-square&logo=gnu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NASM-0095D5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/GRUB-444444?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Limine-7B3FE4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/UEFI-00599C?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Embedded</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman,npm&theme=dark" /><br/>
+      <img src="https://img.shields.io/badge/WSL-4d4d4d?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
