@@ -124,18 +124,26 @@ flowchart LR
 
 ## Current Direction
 
-* Deep learning and model optimization
-* Operating system fundamentals and kernel design
-* AI + systems integration
-* Efficient and scalable architectures
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🧠 Deep Learning</b><br/><sub>Model optimization</sub></td>
+    <td align="center" width="25%"><b>⚙️ Operating Systems</b><br/><sub>Fundamentals & kernel design</sub></td>
+    <td align="center" width="25%"><b>🔗 AI + Systems</b><br/><sub>Integration</sub></td>
+    <td align="center" width="25%"><b>📈 Architecture</b><br/><sub>Efficient & scalable</sub></td>
+  </tr>
+</table>
 
 ---
 
 ## Contact
 
-* GitHub: https://github.com/DoguparthiAakash
-* Email: [doguparthiaakash@gmail.com](mailto:doguparthiaakash@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/aakash-doguparthi-129251297/
+<div align="center">
+
+<a href="https://github.com/DoguparthiAakash"><img src="https://img.shields.io/badge/GitHub-DoguparthiAakash-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:doguparthiaakash@gmail.com"><img src="https://img.shields.io/badge/Email-doguparthiaakash@gmail.com-CC0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aakash-doguparthi-129251297/"><img src="https://img.shields.io/badge/LinkedIn-Aakash%20Doguparthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
 
 ---
 
