@@ -26,17 +26,32 @@
 
 ## Technical Domain
 
-<div align="left">
+```mermaid
+flowchart LR
+    subgraph IN[" Foundations "]
+        direction TB
+        A["AI Systems<br/><sub>Deep Learning · Computer Vision</sub>"]
+        B["Systems Programming<br/><sub>Kernels · OS Design · C/C++</sub>"]
+        C["Embedded & Edge AI<br/><sub>Arduino · Raspberry Pi</sub>"]
+    end
 
-```
-AI Systems ──────────────┐
-                         ├──► Intelligent Architecture
-Systems Programming ─────┤
-                         ├──► Efficient Execution
-Embedded & Edge AI ──────┘
-```
+    IA(["Intelligent<br/>Architecture"])
+    EE(["Efficient<br/>Execution"])
 
-</div>
+    A --> IA
+    B --> IA
+    B --> EE
+    C --> EE
+    IA --> OUT["Optimized AI + Systems"]
+    EE --> OUT
+
+    classDef src fill:#1f2937,stroke:#cc0000,color:#fff,stroke-width:1.5px;
+    classDef mid fill:#660000,stroke:#ff4d4d,color:#fff,stroke-width:1.5px;
+    classDef out fill:#cc0000,stroke:#ff4d4d,color:#fff,stroke-width:2px;
+    class A,B,C src;
+    class IA,EE mid;
+    class OUT out;
+```
 
 ---
 
