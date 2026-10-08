@@ -141,11 +141,11 @@ flowchart LR
 
 ## Statement
 
-```
-Clarity in design.
-Precision in execution.
-Purpose in every system.
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=CC0000&center=true&vCenter=true&width=520&lines=Clarity+in+design.;Precision+in+execution.;Purpose+in+every+system." alt="Statement"/>
+
+</div>
 
 ---
 
