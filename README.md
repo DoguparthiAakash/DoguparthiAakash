@@ -126,10 +126,26 @@ flowchart LR
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>🧠 Deep Learning</b><br/><sub>Model optimization</sub></td>
-    <td align="center" width="25%"><b>⚙️ Operating Systems</b><br/><sub>Fundamentals & kernel design</sub></td>
-    <td align="center" width="25%"><b>🔗 AI + Systems</b><br/><sub>Integration</sub></td>
-    <td align="center" width="25%"><b>📈 Architecture</b><br/><sub>Efficient & scalable</sub></td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="60"/><br/><br/>
+      <b>Deep&nbsp;Learning</b><br/>
+      <sub>Model&nbsp;optimization</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="60"/><br/><br/>
+      <b>Operating&nbsp;Systems</b><br/>
+      <sub>Kernel&nbsp;design</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"/><br/><br/>
+      <b>AI&nbsp;+&nbsp;Systems</b><br/>
+      <sub>Integration&nbsp;&amp;&nbsp;usage</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="60"/><br/><br/>
+      <b>Architecture</b><br/>
+      <sub>Efficient&nbsp;&amp;&nbsp;scalable</sub>
+    </td>
   </tr>
 </table>
 
@@ -137,13 +153,31 @@ flowchart LR
 
 ## Contact
 
-<div align="center">
-
-<a href="https://github.com/DoguparthiAakash"><img src="https://img.shields.io/badge/GitHub-DoguparthiAakash-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:doguparthiaakash@gmail.com"><img src="https://img.shields.io/badge/Email-doguparthiaakash@gmail.com-CC0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aakash-doguparthi-129251297/"><img src="https://img.shields.io/badge/LinkedIn-Aakash%20Doguparthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/DoguparthiAakash">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/><br/><br/>
+        <b>GitHub</b><br/>
+        <sub>@DoguparthiAakash</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="mailto:doguparthiaakash@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/><br/><br/>
+        <b>Email</b><br/>
+        <sub>doguparthiaakash@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.linkedin.com/in/aakash-doguparthi-129251297/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/><br/><br/>
+        <b>LinkedIn</b><br/>
+        <sub>Aakash Doguparthi</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
