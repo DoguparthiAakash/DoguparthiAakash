@@ -123,7 +123,7 @@ Embedded & Edge AI ──────┘
 ## GitHub Activity
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D contribution graph"/>
 </div>
 ---
 
